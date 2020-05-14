@@ -1,0 +1,22 @@
+{
+  "name": "node-be-api",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tontrakan/Node-BE-API.git"
+  },
+  "author": "ton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tontrakan/Node-BE-API/issues"
+  },
+  "homepage": "https://github.com/tontrakan/Node-BE-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
